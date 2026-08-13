@@ -17,7 +17,14 @@ or identifiable natural person.
 or unlawful destruction, loss, alteration, or unauthorized
 disclosure of personal data.
 
-## Chapter II — Data Retention
+
+
+
+
+
+
+
+## Chapter II —DATA RETENTION
 
 ### Article 5: Retention Period
 Companies must retain personal data for no longer than 30 days
