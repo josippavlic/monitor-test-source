@@ -63,3 +63,9 @@ fines of up to 2% of annual global turnover, whichever is higher.
 ### Article 20: Entry Into Force
 This Regulation enters into force on the twentieth day following
 its publication.
+
+
+### Article 21: Supervisory Contact
+Companies must direct all data protection inquiries to the
+Data Protection Office at dpo@example-authority.test instead of
+the general compliance mailbox.
