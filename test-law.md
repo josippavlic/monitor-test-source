@@ -39,6 +39,12 @@ Where a data breach is likely to result in a high risk to the
 rights of affected individuals, the company must notify those
 individuals directly.
 
+
+### Article 16: Repeat Offenders
+Companies found in repeated non-compliance within a 12-month
+period shall face fines of up to 6% of annual global turnover.
+
+
 ## Chapter IV — Penalties
 
 ### Article 15: Administrative Fines
